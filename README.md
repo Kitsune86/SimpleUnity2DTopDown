@@ -6,7 +6,7 @@
 
 ##What is the point of this published single script?
 
-I've decided to publish and heavily document the 2D top-down physics based movement my in-development game uses so that it may be an example for those who are starting out. Perhaps you're new to 2D top-down gamew development and want a quick reference for how others have done it.
+I've decided to publish and heavily document the 2D top-down physics based movement my in-development game uses so that it may be an example for those who are starting out. Perhaps you're new to 2D top-down game development and want a quick reference for how others have done it.
 
 Dropping this code into your project will not make it work instantly. You will need to read through it's documentation to get ideas for your own project.
 
