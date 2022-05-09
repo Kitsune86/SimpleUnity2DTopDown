@@ -1,4 +1,4 @@
-#Simple 2D Unity Top-Down Movement and Projectile Script
+#Simple 2D Unity Top-Down Movement and Projectile Script#
 
 **Supported Versions of Unity** 5.5 and 2018.4
 
